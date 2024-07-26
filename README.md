@@ -20,3 +20,5 @@
 - management transaction GootOut  and GoodIn
   
 # Manajemen-Inventaris-SMI
+
+# Original Resource https://github.com/ryugenxd/Aplikasi-Management-Inventaris
